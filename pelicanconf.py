@@ -11,6 +11,8 @@ LOAD_CONTENT_CACHE = False
 
 TIMEZONE = 'America/Los_Angeles'
 
+OUTPUT_PATH = 'docs'
+
 DEFAULT_LANG = 'en'
 
 STATIC_PATHS = ['images']

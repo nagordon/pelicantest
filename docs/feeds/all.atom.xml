@@ -4,4 +4,6 @@
 &lt;p&gt;and another image&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/engine.jpg" alt="fuselage" width="800"&gt;&lt;/p&gt;</content><category term="Python"></category><category term="pelican"></category><category term="publishing"></category></entry><entry><title>My super title</title><link href="https://nagordon.github.io/pelicantest/my-super-post.html" rel="alternate"></link><published>2010-10-03T10:20:00-07:00</published><updated>2010-10-04T18:40:00-07:00</updated><author><name>Alexis Metaireau</name></author><id>tag:nagordon.github.io,2010-10-03:/pelicantest/my-super-post.html</id><summary type="html">&lt;p class="first last"&gt;Short version for index and feeds&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;test&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;images/engine.jpg&amp;quot; alt=&amp;quot;fuselage&amp;quot; width=&amp;quot;800&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;test&lt;/p&gt;
 </content><category term="yeah"></category><category term="thats"></category><category term="awesome"></category></entry></feed>
